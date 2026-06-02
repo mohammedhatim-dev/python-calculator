@@ -16,5 +16,3 @@ Python 3 (Core Language)
 Basic Control Flow (if/else statements)
 
 Basic Error Handling (try/except blocks)
-
-
